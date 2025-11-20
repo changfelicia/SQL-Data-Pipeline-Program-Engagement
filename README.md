@@ -12,7 +12,7 @@ The overall data flow follows three layers:
 ## Entity Relationship Diagram (ERD)
 The ERD below shows the data relationships across major entities in the pipeline:
 
-![ERD](/Main/ERD.jpg)
+![ERD](/ERD.jpg)
 
 ### Source Data (DW-A, DW-B, DW-C)
 Multiple departmental databases feed raw and semi-processed data such as:
