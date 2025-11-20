@@ -46,7 +46,7 @@ Multiple departmental databases feed raw and semi-processed data such as:
 
 **This merging and transformation is handled through the included SQL script, highlighted in yellow in the ERD, which consolidates all sources and prepares the outputs for downstream teams:**
 
-**Master_Table_SQL.sql**
+**Master_SQL_Script.sql**
 
 ### Consumers (Downstream Teams)
 * Marketing → Receives “Highly Engaged” users for loyalty campaigns (via S3 unload).
